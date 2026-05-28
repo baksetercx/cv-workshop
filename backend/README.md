@@ -1,5 +1,6 @@
 ﻿# Sett opp backend
 
+
 ### Oppsett av ConnectionString
 1. Gå til Supabase-prosjektet ditt.
 1. Klikk på **Connect** i menyen øverst på siden.

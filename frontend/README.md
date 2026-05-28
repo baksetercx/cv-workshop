@@ -1,5 +1,6 @@
 # Sett opp frontend
 
+
 1. Lag en kopi av **.env.example**-filen, og gi den navnet `.env`
 1. Fyll inn følgende verdier\_
    1. **BACKEND_API_URL:** = http://localhost:5007 (Sjekk at dette er samme som Backenden din kjører på)
